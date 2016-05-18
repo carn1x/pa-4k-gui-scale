@@ -1,0 +1,36 @@
+{
+    "context": "client",
+    "identifier": "com.pa.carn1x.4k-gui-scale",
+    "display_name": "4K GUI Scale",
+    "description": "Provide larger range of GUI Scale for higher resolution displays.",
+    "author": "carn1x",
+    "version": "1.0.0",
+    "build": "94243",
+    "date": "2016-05-18",
+    "signature": "not yet implemented",
+    "category": [
+        "ui",
+        "scale",
+        "settings"
+    ],
+    "priority": 100,
+    "scenes": {
+        "settings": ["coui://ui/mods/4k-gui-scale/4k-gui-scale_settings.js"]
+    },
+    "enabled": true,
+    "unitList": false,
+    "fileSystem": true,
+    "searchable": [
+        "4k",
+        "carn1x",
+        "scale",
+        "gui"
+    ],
+    "sort": "4k gui scale",
+    "authors": ["carn1x"],
+    "icon": "",
+    "timestamp": 1463595607,
+    "dependencies": [],
+    "framework": false,
+    "available": true
+}
